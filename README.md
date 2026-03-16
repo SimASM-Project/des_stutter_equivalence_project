@@ -80,7 +80,7 @@ All three produce identical **no-stutter traces** under observation level W, con
 
 - Schruben, L.W. (1983). Simulation Modeling with Event Graphs. *Communications of the ACM*, 26(11), 957--963.
 - Tocher, K.D. (1960). *The Art of Simulation*. English Universities Press.
-- Zeigler, B., 2018. Theory of Modeling and Simulation.
+- Zeigler, B., 2018. *Theory of Modeling and Simulation*.
 
 ## License
 
