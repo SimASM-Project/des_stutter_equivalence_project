@@ -83,7 +83,6 @@ All three produce identical **no-stutter traces** under observation level W, con
 - Zeigler, B., 2018. Theory of Modeling and Simulation.
 
 ## License
-MIT License
 
 MIT
 
