@@ -12,7 +12,6 @@ Reproducible Jupyter notebooks for the [SimASM](https://pypi.org/project/simasm/
 
 | Notebook | Models | Seeds | System |
 |----------|--------|-------|--------|
-| [`tandem_mm1_three_formalism_verification.ipynb`](tandem_mm1_three_formalism_verification.ipynb) | EG vs ACD vs DEVS | 50 | M/M/1 tandem queue |
 | [`warehouse_three_formalism_verification.ipynb`](warehouse_three_formalism_verification.ipynb) | EG vs ACD vs DEVS | 50 | 6-station warehouse (15 servers, 21 propositions) |
 
 Each notebook verifies all three pairwise combinations (EG-ACD, EG-DEVS, ACD-DEVS) to establish mutual stutter equivalence. Despite fundamentally different simulation algorithms, all three formalisms produce identical no-stutter traces under the same observation level W.
