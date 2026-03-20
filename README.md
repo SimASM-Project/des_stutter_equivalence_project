@@ -1,4 +1,4 @@
-# SimASM Notebooks for WSC conference paper titled "Cross-formalism behavioural equialence for Discrete-Event Simulation
+# SimASM Notebooks for WSC conference paper titled "On Behavioral Equivalence of Discrete-Event Simulation Formalisms via Abstract State Machines Semantics"
 
 Reproducible Jupyter notebooks for the [SimASM](https://pypi.org/project/simasm/) framework, demonstrating **stutter equivalence verification** and **Little's Law validation** across three discrete-event simulation formalisms:
 
